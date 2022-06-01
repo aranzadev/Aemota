@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Albmota.
 - 🌱 I’m currently studying at 42 School Malaga.
-- 🎈 I'm also finishing the "Full-stack development" part of the "Samsung Desarrolladoras" program.
+- 🎈 I'm also finishing the "Samsung Desarrolladoras" program.
 
 <!---
 Albmota/Albmota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
