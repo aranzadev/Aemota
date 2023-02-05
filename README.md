@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aemota.
 - 🌱 I’m currently studying at 42 Málaga School.
 - 🎈 I also finished the "Samsung DesArrolladoras" program.
-- 👀 I'm interested in Web and Software Development.
+- 👀 I'm interested Software Development.
 
 <!---
 Aemota/Aemota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
