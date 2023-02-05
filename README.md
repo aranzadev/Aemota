@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aemota.
 - 🌱 I’m currently studying at 42 Málaga School.
-- 🎈 I also finished the "Samsung Desarrolladoras" program.
+- 🎈 I also finished the "Samsung DesArrolladoras" program.
 - 👀 I'm interested in Web and Software Development.
 
 <!---
