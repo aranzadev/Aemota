@@ -8,7 +8,7 @@
 
 - 🤓 Estudiante en **42 Málaga Fundación Telefónica**
 
-- 🤝 Finalicé el programa "Samsung DesArrolladoras": **Introducción al Desarrollo Web, Front-End y Full-Stack**
+- 🤝 Finalicé el programa "Samsung DesArrolladoras": **Desarrollo Web, Front-End y Full-Stack**
 
 <p>
 &nbsp&nbsp
