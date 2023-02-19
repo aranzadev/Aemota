@@ -2,13 +2,17 @@
 <h3 align="center"> <em>Estudiante de desarrollo en busca de su especialización</em> </h3>
 
 
-<img align="right" alt="cat" width="150" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
+<img align="right" alt="cat" width="140" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
 - 🌱 Actualmente estoy aprendiendo **C y Java**
 
 - 🤓 Estudiante en **42 Málaga Fundación Telefónica**
 
 - 🤝 Finalicé el programa "Samsung DesArrolladoras": **Introducción al Desarrollo Web, Front-End y Full-Stack**
+
+<p>
+&nbsp&nbsp
+</p>
 
 <h3 align="left">Lenguajes y Tecnologías:</h3>
 
