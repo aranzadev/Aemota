@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Alba</h1>
+<h1 align="center">¡Hola!👋 soy Alba </h1>
 <h3 align="center"> <em>Estudiante de desarrollo en busca de su especialización </em></h3>
 
 - 🌱 Actualmente estoy aprendiendo **C y Java**
