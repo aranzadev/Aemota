@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **C y Java**
 
-- 🤓 Estudiante en 42 Málaga Fundación Telefónica
+- 🤓 Estudiante en **42 Málaga Fundación Telefónica**
 
 - 🤝 Finalicé el programa "Samsung DesArrolladoras": **Introducción al Desarrollo Web, Front-End y Full-Stack**
 
