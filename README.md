@@ -11,7 +11,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **C | Java | Python**
 
-- 🤝 Finalicé el programa "Samsung DesArrolladoras": **Desarrollo Web | Front-End | Full-Stack**
+- 🤝 Finalicé el programa "Samsung DesArrolladoras" -> **Desarrollo Web | Front-End | Full-Stack**
 
 <p>
 &nbsp&nbsp
