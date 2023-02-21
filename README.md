@@ -7,11 +7,11 @@
 
 <img align="right" alt="cat" width="140" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
-- 🌱 Actualmente estoy aprendiendo **C y Java**
+- 🤓 **42 Málaga** Fundación Telefónica
 
-- 🤓 Estudiante en **42 Málaga Fundación Telefónica**
+- 🌱 Actualmente estoy aprendiendo **C | Java | Python**
 
-- 🤝 Finalicé el programa "Samsung DesArrolladoras": **Desarrollo Web, Front-End y Full-Stack**
+- 🤝 Finalicé el programa "Samsung DesArrolladoras": **Desarrollo Web | Front-End | Full-Stack**
 
 <p>
 &nbsp&nbsp
