@@ -9,7 +9,7 @@
 
 - 🤓 **42 Málaga** Fundación Telefónica
 
-- 🌱 Actualmente estoy aprendiendo **C | Java | IT Automation with Python**
+- 🌱 Actualmente estoy aprendiendo **C | Automatización IT con Python | Java**
 
 - 🤝 Finalicé el programa "Samsung DesArrolladoras" -> **Desarrollo Web | Front-End | Full-Stack**
 
