@@ -5,8 +5,6 @@
 &nbsp&nbsp
 </p>
 
-<img align="right" alt="cat" width="120" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
-
 - 🤓 **42 Málaga** Fundación Telefónica
 
 - 🌱 Actualmente estoy aprendiendo **C | Automatización IT con Python | Java**
@@ -16,6 +14,8 @@
 <p>
 &nbsp&nbsp
 </p>
+
+<img align="right" alt="cat" width="150" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
 <h3 align="left">Lenguajes y Tecnologías:</h3>
 
