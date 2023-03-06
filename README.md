@@ -11,7 +11,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **C | Automatización IT con Python | Java**
 
-- 🤝 Finalicé el programa "Samsung DesArrolladoras" -> ** Introducción al Desarrollo Web | Front-End | Full-Stack**
+- 🤝 Finalicé el programa "Samsung DesArrolladoras" -> **Intro. al Desarrollo Web | Front-End | Full-Stack**
 
 <p>
 &nbsp&nbsp
