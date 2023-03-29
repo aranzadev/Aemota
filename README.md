@@ -5,7 +5,7 @@
 &nbsp&nbsp
 </p>
 
-- 🤓 **42 Málaga** Fundación Telefónica
+- 🤓 **42 Málaga** Fundación Telefónica // **Google**
 
 - 🌱 Actualmente estoy aprendiendo **Automatización IT con Python | C**
 
