@@ -7,7 +7,7 @@
 
 - 🤓 **42 Málaga** Fundación Telefónica // **Google**
 
-- 🌱 Actualmente estoy aprendiendo **Soporte de IT | IT Automation con Python | C**
+- 🌱 Actualmente estoy aprendiendo **Soporte de IT** | **IT Automation con Python** | **C**
 
 - 🤝 Finalicé el programa "Samsung DesArrolladoras" -> **Intro. al Desarrollo Web | Front-End | Full-Stack**
 
