@@ -5,11 +5,11 @@
 &nbsp&nbsp
 </p>
 
-- 🤓 **42 Málaga** Fundación Telefónica // **Google**
+- 🤓 **42 Málaga** Fundación Telefónica // **Google-Coursera**
 
 - 🌱 Actualmente estoy aprendiendo **Soporte de IT** | **IT Automation con Python** | **C**
 
-- 🤝 Finalicé el programa "Samsung DesArrolladoras" -> **Intro. al Desarrollo Web | Front-End | Full-Stack**
+- 🤝 Finalicé el programa "Samsung DesArrolladoras" -> **Intro. al Desarrollo Web** | **Front-End** | **Full-Stack**
 
 <p>
 &nbsp&nbsp
