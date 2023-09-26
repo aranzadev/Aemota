@@ -5,9 +5,9 @@
 &nbsp&nbsp
 </p>
 
-- 🤓 **42 Málaga** Fundación Telefónica // **Google**-Coursera
+- 🤓 **FP Grado Superior DAM** // **Google**-Coursera // **42 Málaga** Fundación Telefónica 
 
-- 🌱 Actualmente estoy aprendiendo **IT Automation con Python** | **Soporte de IT** | **C**
+- 🌱 Certificaciones Profesionales en proceso: **IT Automation with Python** | **Soporte de IT** 
 
 - 🤝 Finalicé el programa "Samsung DesArrolladoras" -> **Intro. al Desarrollo Web** | **Front-End** | **Full-Stack**
 
