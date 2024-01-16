@@ -7,9 +7,9 @@
 
 - 🤓 Cursando: **FP Grado Superior DAM**  
 
-- 🌱 Certificaciones Profesionales de Google: **IT Automation with Python** ✅ && **Soporte de IT** 🛠️
+- 🌱 Certificaciones Profesionales de Google: **IT Automation with Python** ✅ | **Soporte de IT** 🛠️
 
-- 🤝 Finalizado: **42 Málaga** Fundación Telefónica && Programa "Samsung DesArrolladoras" (**Intro. al Desarrollo Web** | **Front-End** | **Full-Stack**) 
+- 🤝 Otras formaciones finalizadas: **42 Málaga** Fundación Telefónica **|** Programa "**Samsung DesArrolladoras**" (_Intro. al Desarrollo Web, Front-End, Full-Stack_) 
 
 <p>
 &nbsp&nbsp&nbsp
