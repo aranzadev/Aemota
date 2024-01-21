@@ -1,15 +1,15 @@
-<h1 align="center">¡Hola!👋 soy Alba </h1>
-<h3 align="center"> <em>Desarrolladora de Software</em> </h3>
+<h1 align="center">Hi!👋 I'm Alba </h1>
+<h3 align="center"> <em>Software Developer</em> </h3>
 
 <p>
 &nbsp&nbsp
 </p>
 
-- 🤓 Cursando: **FP Grado Superior DAM**  
+- 🤓 Studying: **Higher Degree Multiplatform Application Development**  
 
-- 🌱 Certificaciones Profesionales de Google: **IT Automation with Python** ✅ | **Soporte de IT** 🛠️
+- 🌱 Google Professional Certifications: **IT Automation with Python** ✅ | **IT Support** 🛠️
 
-- 🤝 Otras formaciones finalizadas: **42 Málaga** Fundación Telefónica **|** Programa "**Samsung DesArrolladoras**" (_Intro. al Desarrollo Web, Front-End, Full-Stack_) 
+- 🤝 Other training courses completed: **42 Málaga** Fundación Telefónica **|** "**Samsung DesArrolladoras**" program (_Intro. to Web Development, Front-End, Full-Stack_) 
 
 <p>
 &nbsp&nbsp&nbsp
@@ -17,7 +17,7 @@
 
 <img align="right" alt="code" width="130" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 
-<h3 align="left">Lenguajes y Tecnologías:</h3>
+<h3 align="left">Languages and tools:</h3>
 
 <p align="left"> 
 
