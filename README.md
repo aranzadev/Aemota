@@ -9,7 +9,7 @@
 
 - 🌱 Google Professional Certifications: **IT Automation with Python** ✅ | **IT Support** 🛠️
 
-- 🤝 Other training courses completed: **42 Málaga** Fundación Telefónica **|** "**Samsung DesArrolladoras**" program (_Intro. to Web Development, Front-End, Full-Stack_) 
+- 🤝 Other training courses: **42 Málaga** Fundación Telefónica **|** "**Samsung DesArrolladoras**" program (_Intro. to Web Development, Front-End, Full-Stack_) 
 
 <p>
 &nbsp&nbsp&nbsp
