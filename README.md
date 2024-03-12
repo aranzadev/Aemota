@@ -5,7 +5,7 @@
 &nbsp&nbsp
 </p>
 
-- 🤓 Studying: **Higher Degree Multiplatform Application Development**  
+- 🤓 Studying: **Higher Education in Multiplatform Application Development**  
 
 - 🌱 Google Professional Certifications: **IT Automation with Python** ✅ | **IT Support** 🛠️
 
