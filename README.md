@@ -5,6 +5,8 @@
 &nbsp&nbsp
 </p>
 
+- 💼 Actual job: **Frontend developer at Gaba Energía**.
+
 - 🤓 Studying: **Higher Education in Multiplatform Application Development**  
 
 - 🌱 Google Professional Certifications: **IT Automation with Python** ✅ | **IT Support** 🛠️
