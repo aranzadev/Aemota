@@ -9,9 +9,7 @@
 
 - 🤓 Studying: **Higher Education in Multiplatform Application Development**.  
 
-- 🌱 Google Professional Certifications: **IT Automation with Python**. 
-
-- 🤝 Other training courses: **42 Málaga** Fundación Telefónica **|** "**Samsung DesArrolladoras**" program (_Intro. to Web Development, Front-End, Full-Stack_). 
+- 🌱 Other training courses: **42 Málaga** Fundación Telefónica **|** Google Professional Certifications: **IT Automation with Python** **|** "Samsung DesArrolladoras" program (**_Intro. to Web Development, Front-End, Full-Stack_**). 
 
 <p>
 &nbsp&nbsp&nbsp
