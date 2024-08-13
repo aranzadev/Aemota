@@ -5,7 +5,7 @@
 &nbsp&nbsp
 </p>
 
-- 💼 Current job: **Frontend developer at Gaba Energía**.
+- 💼 Current job: **Frontend developer**.
 
 - 🤓 Studying: **Higher Education in Multiplatform Application Development**.  
 
